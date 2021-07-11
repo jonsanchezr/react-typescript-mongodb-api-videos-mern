@@ -79,10 +79,10 @@ Not defined.
 Jonathan Sanchez Rodriguez - jsanchez.dev1991@gmail.com
 
 ## Screenshot
-[![react-typescript-1](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-1.png "react-typescript-1")](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-1.png "react-typescript-1")
+[![react-typescript-1](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-1.png "react-typescript-1")](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-1.png "react-typescript-1")
 
-[![react-typescript-2](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-2.png "react-typescript-2")](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-2.png "react-typescript-2")
+[![react-typescript-2](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-2.png "react-typescript-2")](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-2.png "react-typescript-2")
 
-[![react-typescript-3](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-3.png "react-typescript-3")](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-3.png "react-typescript-3")
+[![react-typescript-3](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-3.png "react-typescript-3")](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-3.png "react-typescript-3")
 
-[![react-typescript-4](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-4.png "react-typescript-4")](https://raw.githubusercontent.com/jonsanchezr/mern-react-node-mongodb-api-tasks/main/z-screenshot/react-typescript-4.png "react-typescript-4")
+[![react-typescript-4](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-4.png "react-typescript-4")](https://raw.githubusercontent.com/jonsanchezr/react-typescript-mongodb-api-videos-mern/main/z-screenshot/react-typescript-4.png "react-typescript-4")
